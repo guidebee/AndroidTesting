@@ -35,7 +35,10 @@ public class MifareClassCard {
 	 */
 	private int SECTORCOUNT=16;
 	
-	private final static String TAG="MifareCardInfo";
+	/**
+	 * Log TAG.
+	 */
+	protected String TAG="MifareCardInfo";
 	
 	/**
 	 * sectors.
